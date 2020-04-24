@@ -3,11 +3,6 @@ def roll_call_dwarves ; ["Doc", "Dopey", "Bashful", "Grumpy", "sneezy", "sleepy"
 end
 print roll_call_dwarves
 
-hash = Hash.new
-%w(["Doc", "Dopey", "Bashful", "Grumpy"]).each_with_index { |item, index|
-  hash[item] = index
-}
-hash   #=> ["Doc", "Dopey", "Bashful", "Grumpy"]
 
 def summon_captain_planet# code an argument here
   # Your code here
