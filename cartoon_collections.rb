@@ -1,8 +1,4 @@
-def roll_call_dwarves
-  array = ["Doc", "Dopey", "Bashful", "Grumpy"]
-my_collect(array) do |name|
-  name.split(" ").first
-end
+def roll_call_dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 end
 
 def summon_captain_planet# code an argument here
