@@ -1,6 +1,5 @@
 
-def roll_call_dwarves
-  ["Doc", "Dopey", "Bashful", "Grumpy"]
+def roll_call_dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 end
 print roll_call_dwarves
 
