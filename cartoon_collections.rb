@@ -1,5 +1,5 @@
 
-def roll_call_dwarves = ["Doc", "Dopey", "Bashful", "Grumpy", "sneezy", "sleepy", "happy"]
+def roll_call_dwarves ; ["Doc", "Dopey", "Bashful", "Grumpy", "sneezy", "sleepy", "happy"]
 end
 print roll_call_dwarves
 
